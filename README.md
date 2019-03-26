@@ -12,4 +12,16 @@
 
 # Day 2
 
+## State of the Vuenion
+
+- Growing _fast_ (10% MoM) [State of Vuejs](https://www.monterail.com/state-of-vuejs-report)
+- Use vue reactivity outside of component scope (advanced reactivity api)
+- Mixins and HoCs are out - hook lyfe
+
+## Intro to Nuxt
+
+- Basically an opinionated Vue app starter
+- Lots of performance configured for you out of the box
+- Nuxt could be good option for marketing sites
+
 # Day 3
