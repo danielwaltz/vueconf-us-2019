@@ -35,4 +35,24 @@
 
 - Use `mapState` and `mapGetters`
 
+## Lightning Talks
+
+### Progressive Validation
+
+- Look into ValidityState api
+
+### GraphQL Subscriptions
+
+- Look into [Hasura](https://hasura.io/)
+
+## Zen and the Art of Vue
+
+- Forked templates with NativeScript looks like a great experience
+- Vue cli plugin for NativeScript
+
+## Demystifying: The Dark Art of SFC Compilation
+
+- Custom template blocks are convenient
+- Good use case is translations
+
 # Day 3
