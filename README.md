@@ -55,4 +55,15 @@
 - Custom template blocks are convenient
 - Good use case is translations
 
+## Phenomenal Design Patterns in Vue
+
+- Dive into Design Patterns (book)
+
+## The Future of Web Animation
+
+- Make the web fun - anything can happen
+- Pay attention to cognitive load
+- Native 3D (AR/VR) is coming to browsers
+- The web it stuck in blocks, design has become redundant
+
 # Day 3
