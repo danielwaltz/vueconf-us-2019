@@ -14,7 +14,7 @@
 
 ## State of the Vuenion
 
-- Growing _fast_ (10% MoM) [State of Vuejs](https://www.monterail.com/state-of-vuejs-report)
+- Growing _fast_ (10% MoM) [State of Vue.js](https://www.monterail.com/state-of-vuejs-report)
 - Use vue reactivity outside of component scope (advanced reactivity api)
 - Mixins and HoCs are out - hook lyfe
 
@@ -23,5 +23,16 @@
 - Basically an opinionated Vue app starter
 - Lots of performance configured for you out of the box
 - Nuxt could be good option for marketing sites
+
+## Vue.js In Practice
+
+- Common theme - Vue is very incrementally adoptable
+- Almost everyone has to maintain a legacy app (primarily Angular.js)
+- Create a company specific vue cli plugin for shared functionality
+- Code owners tool
+
+## Vuex Explained Visually
+
+- Use `mapState` and `mapGetters`
 
 # Day 3
