@@ -67,3 +67,28 @@
 - The web it stuck in blocks, design has become redundant
 
 # Day 3
+
+## Vue 3: What I'm Most Excited About
+
+- Will be more simple and more explicit
+- `Vue.set` for updating array items in Vue 2
+- Vue 3 with proxies means you don't have to worry about it
+- Multiple root node support!
+- Emit `update` event instead of `input` for transparent wrappers in Vue 2
+- In Vue 3, all you need is `v-bind="$attrs"` for v-model/listeners
+- Vue 3 will no longer have attr inheritance (breaking change?)
+- `v-on` will compile to attrs
+- Vue 3 gets simpler render functions - closer to JSX
+- Cool new Vue 3 features won't support IE
+- Will be a Vue 3 migration tool that will offer to migrate code for you
+
+## 9 Performance Secrets Revealed
+
+- Use local variable based on computed prop value when using computed props together
+- Prefer `v-show` over `v-if` when rendering is a concern
+- Improve repeat route load by using special `<keep-alive>` component
+- Use attrs to customize `<keep-alive>` for memory optimization
+- Use defer to optimistically render parts of a route
+- Use a queue to commit large payloads in chunks to a store like `vuex`
+- You can opt out of reactivity for performance gains
+- Use `<recycle-scroller>` lib for rendering large data sets
