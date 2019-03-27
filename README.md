@@ -92,3 +92,11 @@
 - Use a queue to commit large payloads in chunks to a store like `vuex`
 - You can opt out of reactivity for performance gains
 - Use `<recycle-scroller>` lib for rendering large data sets
+
+## Building Fast and Semantic Input Masks
+
+- Use directive or filter
+
+## Stuck in the Event Loop
+
+- Avoid `$nextTick`, it's a mess
