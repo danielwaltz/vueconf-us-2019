@@ -106,3 +106,26 @@
 - Accessibility tab in chrome developer tools looks convenient
 - What is read out by a screen reader depends on a hierarchy
 - Chrome dev tools color picker lets you see contrast ratio
+
+## Run your Vue and Node App Anywhere
+
+- `sourceMapPathOverride` when debugging with Chrome
+- Node debug auto attach setting in `vscode`
+- Look into Chrome debugging with breakpoints - just figure it out 😔
+- There a "logpoints" along with breakpoints
+- Remember to use build steps in `Dockerfiles`
+
+## Fast Mobile Apps
+
+- Ionic + Vue = 🎉💙
+
+## Dynamic CSS with Vue
+
+- `target / context * 100%`
+- Write css to define constraints, let the browser do its thing when you can
+- The CSS var syntax is like using your own vendor prefix
+- CSS vars have fallbacks! `var(--prop, fallback)`
+- Vars are inherited and you can change var values from a child context
+- CSS vars with HSL allow for easy compliment coloring
+- Houdini allows registering new CSS properties (scary)
+- CSS grid with media queries is awesome for application layout, use it
