@@ -100,3 +100,9 @@
 ## Stuck in the Event Loop
 
 - Avoid `$nextTick`, it's a mess
+
+## Web Accessibility
+
+- Accessibility tab in chrome developer tools looks convenient
+- What is read out by a screen reader depends on a hierarchy
+- Chrome dev tools color picker lets you see contrast ratio
