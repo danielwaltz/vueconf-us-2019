@@ -29,7 +29,7 @@
 - Common theme - Vue is very incrementally adoptable
 - Almost everyone has to maintain a legacy app (primarily Angular.js)
 - Create a company specific vue cli plugin for shared functionality
-- Code owners tool
+- Look into using a [CODEOWNERS](https://help.github.com/en/articles/about-code-owners) file
 
 ## Vuex Explained Visually
 
@@ -62,9 +62,9 @@
 ## The Future of Web Animation
 
 - Make the web fun - anything can happen
-- Pay attention to cognitive load
+- Balance it with additional cognitive load required by users for new interfaces
 - Native 3D (AR/VR) is coming to browsers
-- The web it stuck in blocks, design has become redundant
+- The web is stuck in blocks, design has become redundant, 3d is next
 
 # Day 3
 
@@ -95,7 +95,7 @@
 
 ## Building Fast and Semantic Input Masks
 
-- Use directive or filter
+- Use a directive
 
 ## Stuck in the Event Loop
 
@@ -112,7 +112,7 @@
 - `sourceMapPathOverride` when debugging with Chrome
 - Node debug auto attach setting in `vscode`
 - Look into Chrome debugging with breakpoints - just figure it out 😔
-- There a "logpoints" along with breakpoints
+- There are "logpoints" along with "breakpoints" when debugging
 - Remember to use build steps in `Dockerfiles`
 
 ## Fast Mobile Apps
@@ -127,5 +127,5 @@
 - CSS vars have fallbacks! `var(--prop, fallback)`
 - Vars are inherited and you can change var values from a child context
 - CSS vars with HSL allow for easy compliment coloring
-- Houdini allows registering new CSS properties (scary)
-- CSS grid with media queries is awesome for application layout, use it
+- [Houdini](https://wiki.mozilla.org/CSS/Houdini) allows registering new CSS properties (probably going to avoid this)
+- CSS grid areas with media queries is awesome for responsive application layout, use it
